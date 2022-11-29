@@ -1,4 +1,4 @@
-Vuetify APP
+Vue.Js shopping APP
 
 > A Vue.js project
 
