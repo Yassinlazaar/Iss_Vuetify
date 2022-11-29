@@ -1,4 +1,4 @@
-# test-project
+Vuetify APP
 
 > A Vue.js project
 
